@@ -13,7 +13,7 @@ export const playlists: Playlist[] = [
   {
     id: '1',
     albumId: 1,
-    title: "Daddy Yankee",
+    title: "This IS Daddy Yankee",
     color: colors.yellow,
     cover:
       "https://vinyl.lofirecords.com/cdn/shop/products/VINYL_MORNING_COFFEE_4-min.png?v=1680526353",
@@ -22,7 +22,7 @@ export const playlists: Playlist[] = [
   {
     id: '2',
     albumId: 2,
-    title: "Nicky Jam",
+    title: "This IS Nicky Jam",
     color: colors.green,
     cover:
       "https://vinyl.lofirecords.com/cdn/shop/files/2amsynth-vinyl.png?v=1693312187",
@@ -31,7 +31,7 @@ export const playlists: Playlist[] = [
   {
     id: '3',
     albumId: 3,
-    title: "El Alfa",
+    title: "This IS El Alfa",
     color: colors.rose,
     cover:
       "https://f4.bcbits.com/img/a1435058381_65.jpg",
@@ -40,7 +40,7 @@ export const playlists: Playlist[] = [
   {
     id: '4',
     albumId: 4,
-    title: "Bad Bunny",
+    title: "This IS Bad Bunny",
     color: colors.blue,
     cover:
       "https://f4.bcbits.com/img/a1962013209_16.jpg",
@@ -49,7 +49,7 @@ export const playlists: Playlist[] = [
   {
     id: '5',
     albumId: 5,
-    title: "Linkin Park",
+    title: "This IS Linkin Park",
     color: colors.purple,
     cover:
       "https://f4.bcbits.com/img/a2793859494_16.jpg",
@@ -58,7 +58,7 @@ export const playlists: Playlist[] = [
   {
     id: '6',
     albumId: 6,
-    title: "J Balvin",
+    title: "This IS J Balvin",
     color: colors.orange,
     cover:
       "https://f4.bcbits.com/img/a0363730459_16.jpg",
